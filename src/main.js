@@ -3,7 +3,7 @@ import Signin from './components/authentication/signin';
 import Signup from './components/authentication/signup';
 import Tweets from './components/tweets/tweets';
 import Parse from 'parse/react-native';
-import config from './config';
+import config from '../config';
 const {
 	StyleSheet,
 	Component,
